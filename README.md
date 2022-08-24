@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Java language for solutions in hydraulic transients
 - 🌱 I’m currently learning Python, HTML and CSS
-- 📫 How to reach me: lucasfengcivil@gmail.com
+- 🏹 My goal is to become a back-end developer
 - 🎓Languages: PT/BR and EN/US
 
 <div align="center">
