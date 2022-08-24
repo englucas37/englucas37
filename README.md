@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, HTML and CSS
 - 📫 How to reach me: lucasfengcivil@gmail.com
 - 🎓Languages: PT/BR and EN/US
-##
+
 <div align="center">
   <a href="https://github.com/englucas37">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=englucas37&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -18,3 +18,8 @@
   <img align="center" alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
+  
+##
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-flor%C3%AAncio-8806bb1a4/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfengcivil@gmail.com)
