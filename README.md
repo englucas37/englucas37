@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python, HTML and CSS
 - 🏹 My goal is to become a back-end developer
 - 🎓Languages: PT/BR and EN/US
+- 📈 These are my stats and languages used in my repositories:
 
 <div align="center">
   <a href="https://github.com/englucas37">
